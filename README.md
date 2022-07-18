@@ -1,6 +1,6 @@
 ## Hello! I'm Fernando Freires de Carvalho
 
-- 🔭 I’m currently studying to be a Full-Stack Developer
+- 🔭 I’m currently a Full-Stack Developer Intern;
 - 🌱 Focus on JavaScript/TypeScript Frameworks: Node.js, React, AngularV12+ and Vue.js
 - 😄 Pronouns: He/Him
 
